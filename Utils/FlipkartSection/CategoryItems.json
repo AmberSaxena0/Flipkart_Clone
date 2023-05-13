@@ -1,0 +1,78 @@
+[
+    {
+        "ItemName": "Offer Zone",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/879/879859.png"
+    },
+    {
+        "ItemName": "Grocery",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/2203/2203183.png"
+    },
+    {
+        "ItemName": "Mobile",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/3437/3437364.png"
+    },
+    {
+        "ItemName": "Fasion",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/3050/3050239.png"
+    },
+    {
+        "ItemName": "Electronics",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/1261/1261106.png"
+    },
+    {
+        "ItemName": "Home",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/1027/1027179.png"
+    },
+    {
+        "ItemName": "Personal Care",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/1430/1430484.png"
+    },
+    {
+        "ItemName": "Appliances",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/3362/3362661.png"
+    },
+    {
+        "ItemName": "Toys & Baby",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/4287/4287470.png"
+    },
+    {
+        "ItemName": "Furniture",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/2603/2603741.png"
+    },
+    {
+        "ItemName": "Flights & Hotels",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/2200/2200326.png"
+    },
+    {
+        "ItemName": "Insurance",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/2966/2966486.png"
+    },
+    {
+        "ItemName": "Sports",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/857/857455.png"
+    },
+    {
+        "ItemName": "Nutrition & More",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/561/561611.png"
+    },
+    {
+        "ItemName": "Bikes & Cars",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/5813/5813884.png"
+    },
+    {
+        "ItemName": "Gift Cards",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/9334/9334616.png"
+    },
+    {
+        "ItemName": "Medicines",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/4320/4320365.png"
+    },
+    {
+        "ItemName": "Home Services",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/2954/2954899.png"
+    },
+    {
+        "ItemName": "Sell-Back",
+        "ItemImg": "https://cdn-icons-png.flaticon.com/512/4716/4716767.png"
+    }
+]

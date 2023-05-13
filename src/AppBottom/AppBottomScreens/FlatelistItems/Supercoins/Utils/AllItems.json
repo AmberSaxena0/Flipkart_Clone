@@ -1,0 +1,34 @@
+[
+    {
+        "ItemName": "Reward Store",
+        "ItemImage": "https://cdn-icons-png.flaticon.com/512/744/744922.png"
+    },
+    {
+        "ItemName": "Budget Store",
+        "ItemImage": "https://cdn-icons-png.flaticon.com/512/1420/1420341.png"
+    },
+    {
+        "ItemName": "Flipkart Coupons",
+        "ItemImage": "https://cdn-icons-png.flaticon.com/512/825/825571.png"
+    },
+    {
+        "ItemName": "Super Games",
+        "ItemImage": "https://cdn-icons-png.flaticon.com/512/1374/1374723.png"
+    },
+    {
+        "ItemName": "Trending Stores",
+        "ItemImage": "https://cdn-icons-png.flaticon.com/512/2160/2160260.png"
+    },
+    {
+        "ItemName": "Cash & Coins",
+        "ItemImage": "https://cdn-icons-png.flaticon.com/512/2953/2953536.png"
+    },
+    {
+        "ItemName": "SuperCoins Bonous",
+        "ItemImage": "https://cdn-icons-png.flaticon.com/512/1490/1490853.png"
+    },
+    {
+        "ItemName": "SuperCoin Pay",
+        "ItemImage": "https://cdn-icons-png.flaticon.com/512/825/825569.png"
+    }
+]

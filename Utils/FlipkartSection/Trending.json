@@ -1,0 +1,52 @@
+[
+    {
+        "TrendingTitle": "Student's Club",
+        "TrendingSubTitle": "Back-To-School",
+        "TrendingImg": "https://cdn-icons-png.flaticon.com/512/3829/3829933.png"
+    },
+    {
+        "TrendingTitle": "Flipkart Samarth",
+        "TrendingSubTitle": "Handicrafts, Decor, etc.",
+        "TrendingImg": "https://cdn-icons-png.flaticon.com/512/3943/3943611.png"
+    },
+    {
+        "TrendingTitle": "Wedding Store",
+        "TrendingSubTitle": "Lehengas, Sarees & more",
+        "TrendingImg": "https://cdn-icons-png.flaticon.com/512/3521/3521778.png"
+    },
+    {
+        "TrendingTitle": "Flipkart Green",
+        "TrendingSubTitle": "The Sustainable Store",
+        "TrendingImg": "https://cdn-icons-png.flaticon.com/512/2329/2329865.png"
+    },
+    {
+        "TrendingTitle": "International Store",
+        "TrendingSubTitle": "Brands Across the World",
+        "TrendingImg": "https://cdn-icons-png.flaticon.com/512/869/869636.png"
+    },
+    {
+        "TrendingTitle": "Wellness Store",
+        "TrendingSubTitle": "For All Heath Needs",
+        "TrendingImg": "https://cdn-icons-png.flaticon.com/512/2966/2966486.png"
+    },
+    {
+        "TrendingTitle": "Flipkart Originals",
+        "TrendingSubTitle": "Fashion, Electronics, beauty, etc.",
+        "TrendingImg": "https://cdn-icons-png.flaticon.com/512/8863/8863863.png"
+    },
+    {
+        "TrendingTitle": "Travel Store",
+        "TrendingSubTitle": "See the World with Ease",
+        "TrendingImg": "https://cdn-icons-png.flaticon.com/512/2832/2832064.png"
+    },
+    {
+        "TrendingTitle": "Next Gen",
+        "TrendingSubTitle": "Innovative & unique",
+        "TrendingImg": "https://cdn-icons-png.flaticon.com/512/1260/1260333.png"
+    },
+    {
+        "TrendingTitle": "Launch Hub",
+        "TrendingSubTitle": "New Launches",
+        "TrendingImg": "https://cdn-icons-png.flaticon.com/512/2331/2331925.png"
+    }
+]

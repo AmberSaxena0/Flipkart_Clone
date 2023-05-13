@@ -1,0 +1,29 @@
+[
+    {
+        "OfferImg": "https://www.bigbasket.com/media/uploads/p/xxl/40189011_2-maggi-maha-2-minute-masala-noodles-happy-share-pack.jpg",
+        "OfferTitle": "Maggi",
+        "OfferSubTitle": "2-Min Masala Instant Noodles Vegetarian",
+        "OfferSize": "17 x 70 g",
+        "OfferPrice": "₹149",
+        "OfferOff": "11% off",
+        "OfferTag": "10% off on ICICI Bank Credit Cards, upto ₹250"
+    },
+    {
+        "OfferImg": "https://ecosansar.com/wp-content/uploads/2020/05/mustard-oil-500x515-1.jpg",
+        "OfferTitle": "Pansari",
+        "OfferSubTitle": "Kacchi Ghani Mustard Oil Plastic Bottle",
+        "OfferSize": "1 L",
+        "OfferPrice": "₹120",
+        "OfferOff": "48% off",
+        "OfferTag": "Get extra 10% off (price inclusive of cashback/coupon)"
+    },
+    {
+        "OfferImg": "https://www.bigbasket.com/media/uploads/p/xxl/40005021_4-amul-processed-cheese-block.jpg",
+        "OfferTitle": "Go",
+        "OfferSubTitle": "Plain Processed Cheese Slices",
+        "OfferSize": "476 g",
+        "OfferPrice": "₹290",
+        "OfferOff": "38% off",
+        "OfferTag": "10% off on ICICI Bank Credit Cards, upto ₹250"
+    }
+]

@@ -1,0 +1,81 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/ChivoMono-Black.ttf",
+      "sha1": "dc8016410f4048d290309ab72fea9b5ed80f4563"
+    },
+    {
+      "path": "assets/fonts/ChivoMono-BlackItalic.ttf",
+      "sha1": "44dd22f7c37be824e5822c73e0443c0ab0d3151f"
+    },
+    {
+      "path": "assets/fonts/ChivoMono-Bold.ttf",
+      "sha1": "ae5b05b966809d5672316f21109248f5d5877787"
+    },
+    {
+      "path": "assets/fonts/ChivoMono-BoldItalic.ttf",
+      "sha1": "2d789d9a805d4dfb0dff13b91dbd47b17b5754a9"
+    },
+    {
+      "path": "assets/fonts/ChivoMono-ExtraBold.ttf",
+      "sha1": "5f24e988ba119976b14445817be9011dc253f70c"
+    },
+    {
+      "path": "assets/fonts/ChivoMono-ExtraBoldItalic.ttf",
+      "sha1": "b0fe8bad91ce8d7cbfc5a8e8725b79f6c3ac2851"
+    },
+    {
+      "path": "assets/fonts/ChivoMono-ExtraLight.ttf",
+      "sha1": "0f36fe898b09572620aee87b74d478493df05393"
+    },
+    {
+      "path": "assets/fonts/ChivoMono-ExtraLightItalic.ttf",
+      "sha1": "e5627e6a7df751b60d4c4c418014263c2fcb8a66"
+    },
+    {
+      "path": "assets/fonts/ChivoMono-Italic.ttf",
+      "sha1": "6c75ca689d2bd97e6468e04ff775707b5f33493d"
+    },
+    {
+      "path": "assets/fonts/ChivoMono-Light.ttf",
+      "sha1": "15745775bdf7003b962a2853966436f6d72d9c44"
+    },
+    {
+      "path": "assets/fonts/ChivoMono-LightItalic.ttf",
+      "sha1": "a022c021cef6351e05d43031f6c6e4621c33b6e0"
+    },
+    {
+      "path": "assets/fonts/ChivoMono-Medium.ttf",
+      "sha1": "59819351830fee1928e9fedd0c29faf254a75fdd"
+    },
+    {
+      "path": "assets/fonts/ChivoMono-MediumItalic.ttf",
+      "sha1": "172a1bc0f37024ac9d6abd55d8b3b1bae59d14cf"
+    },
+    {
+      "path": "assets/fonts/ChivoMono-Regular.ttf",
+      "sha1": "c192a244e0dae8e8f6ee7e17ee4cfa70fab3dba5"
+    },
+    {
+      "path": "assets/fonts/ChivoMono-SemiBold.ttf",
+      "sha1": "2847ac881d87e2b5a7da87190ee0c509dce11637"
+    },
+    {
+      "path": "assets/fonts/ChivoMono-SemiBoldItalic.ttf",
+      "sha1": "6470f475f0e1d8a905cae1b22ce88ca1fb786264"
+    },
+    {
+      "path": "assets/fonts/ChivoMono-Thin.ttf",
+      "sha1": "235b5694f85634e07ad9ac24e751398e2f9d60f3"
+    },
+    {
+      "path": "assets/fonts/ChivoMono-ThinItalic.ttf",
+      "sha1": "932ef56af76108d353d84dcfc3a4f821db274028"
+    },
+    {
+      "path": "assets/fonts/Lobster-Regular.ttf",
+      "sha1": "120c751cd7a77174037c2409ab883ef7efc5edbb"
+    }
+  ]
+}
